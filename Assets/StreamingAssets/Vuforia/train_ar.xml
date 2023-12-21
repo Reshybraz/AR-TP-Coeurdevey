@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="RER" size="20.000000 12.489270" />
+    <ImageTarget name="metro" size="20.000000 11.333333" />
+    <ImageTarget name="Gare" size="29.000000 35.470459" />
+  </Tracking>
+</QCARConfig>
